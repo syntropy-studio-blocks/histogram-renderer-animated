@@ -1,0 +1,14 @@
+{
+  "source": "code.js",
+  "inputs": [
+    {
+      "type": "link",
+      "id": "inputStream"
+    },
+    {
+      "id": "numBuckets",
+      "type": "number"
+    }
+  ],
+  "outputs": []
+}

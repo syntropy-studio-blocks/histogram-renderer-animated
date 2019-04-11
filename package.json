@@ -1,0 +1,22 @@
+{
+  "name": "histogram-renderer-animated",
+  "version": "1.0.0",
+  "description": "Syntropy Studio block to continuously render a histogram from a streaming data input.",
+  "main": "code.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/syntropy-studio-blocks/histogram-renderer-animated.git"
+  },
+  "keywords": [
+    "\"syntropy-studio-block\""
+  ],
+  "author": "Angus Russell",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/syntropy-studio-blocks/histogram-renderer-animated/issues"
+  },
+  "homepage": "https://github.com/syntropy-studio-blocks/histogram-renderer-animated#readme"
+}
