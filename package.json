@@ -11,7 +11,11 @@
     "url": "git+https://github.com/syntropy-studio-blocks/histogram-renderer-animated.git"
   },
   "keywords": [
-    "\"syntropy-studio-block\""
+    "syntropy-studio-block",
+    "histogram",
+    "renderer",
+    "distribution",
+    "chart"
   ],
   "author": "Angus Russell",
   "license": "MIT",
