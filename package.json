@@ -1,6 +1,6 @@
 {
   "name": "histogram-renderer-animated",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Syntropy Studio block to continuously render a histogram from a streaming data input.",
   "main": "code.js",
   "scripts": {
